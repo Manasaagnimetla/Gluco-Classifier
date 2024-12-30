@@ -13,7 +13,7 @@ import seaborn as sns
 # In[5]:
 
 
-data=pd.read_csv(r"C:\Users\Lenovo\OneDrive - RandomTrees\Desktop\diabetes.csv")
+data=pd.read_csv("diabetes.csv")
 
 
 # In[6]:
